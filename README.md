@@ -28,4 +28,4 @@
   - Adobe CC, Microsoft Office
   - Apple Specialist Training - 2018
 
-***Some information about me and what I'm working on...***
+***Some information about what I'm working on coming soon...***
