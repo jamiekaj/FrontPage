@@ -18,13 +18,13 @@
     - R, Python
     - Qiagen CLC & Ingenuity Pathway Analysis
   - [Lay-Article](https://gluck.ca.uky.edu/sites/gluck.ca.uky.edu/files/EDQ%20Jan..%202024%20%20.pdf)
-  - Art & Graphic Design
+  - [Art & Graphic Design](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119382829)
     
 - ~20 years IT experience
   - Windows, Mac, Linux
   - Adobe CC, Microsoft Office
   - Dentrix / Caretstream OrthoTrac
-  - Apple Specialist Training - 2018
+  - Apple Specialist Training
 
 ## Academic
 - **Bsc, Animal Science (Equine Specialty)**\
