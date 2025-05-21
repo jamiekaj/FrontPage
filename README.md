@@ -4,6 +4,7 @@
 
 - **PhD, Veterinary Science (Molecular Parasitology/Computational Biology)**\
 [Gluck Equine Research Center, University of Kentucky, Lexington](https://gluck.ca.uky.edu/)
+  - ***[Dissertation](https://uknowledge.uky.edu/gluck_etds/67/)***
 
 ## Experience
 - ~20 years IT experience
@@ -16,7 +17,7 @@
     - nucleic acid isolation  
     - end point & digital PCR
     - fecal egg counting
-  - Necropsy & Animal Handling
+  - Necropsy & Equine Handling
   - Bioinformatics
     - genome assembly and annotation
     - SNV detection
