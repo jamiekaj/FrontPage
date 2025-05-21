@@ -21,8 +21,8 @@
     - process automation & HPC utlization
     - R, Python
     - advanced machine learning
-  - Art / Graphic Design
-    - 
+  - Art & Graphic Design
+    
 - ~20 years IT experience
   - Windows, Mac, Linux
   - Adobe CC, Microsoft Office
