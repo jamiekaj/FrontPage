@@ -13,6 +13,7 @@
  
 - ~10 years research experience
   - Wetlab
+    - nucleic acid isolation  
     - end point & digital PCR
     - fecal egg counting
   - Necropsy & Animal Handling
