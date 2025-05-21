@@ -1,10 +1,4 @@
-## Academic
-- **Bsc, Animal Science (Equine Specialty)**\
-[University of Kentucky, Lexington](https://www.uky.edu/)
-
-- **PhD, Veterinary Science (Molecular Parasitology/Computational Biology)**\
-[Gluck Equine Research Center, University of Kentucky, Lexington](https://gluck.ca.uky.edu/)
-  - ***[Dissertation](https://uknowledge.uky.edu/gluck_etds/67/)***
+***Some information about what I'm working on coming soon...***
 
 ## Experience
 - ~10 years research experience
@@ -31,4 +25,11 @@
   - Dentrix / Caretstream OrthoTrac
   - Apple Specialist Training - 2018
 
-***Some information about what I'm working on coming soon...***
+## Academic
+- **Bsc, Animal Science (Equine Specialty)**\
+[University of Kentucky, Lexington](https://www.uky.edu/)
+
+- **PhD, Veterinary Science (Molecular Parasitology/Computational Biology)**\
+[Gluck Equine Research Center, University of Kentucky, Lexington](https://gluck.ca.uky.edu/)
+  - ***[Dissertation](https://uknowledge.uky.edu/gluck_etds/67/)***
+ 
