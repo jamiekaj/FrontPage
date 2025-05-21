@@ -3,6 +3,6 @@
 [University of Kentucky, Lexington](https://www.uky.edu/)
 
 - **PhD, Veterinary Science (Molecular Parasitology/Computational Biology)**\
-[University of Kentucky, Lexington](https://gluck.ca.uky.edu/)
+[Gluck Equine Research Center, University of Kentucky, Lexington](https://gluck.ca.uky.edu/)
 
 ***Some information about me and what I'm working on***
