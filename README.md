@@ -12,4 +12,4 @@
   - Necropsy
   - Bioinformatics
 
-***Some information about me and what I'm working on***
+***Some information about me and what I'm working on...***
