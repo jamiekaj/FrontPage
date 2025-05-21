@@ -13,7 +13,6 @@
     - differential gene expression analysis
     - SNV analysis
     - protein modeling
-    - process automation & HPC utlization
     - machine learning
     - R, Python
     - Qiagen CLC & Ingenuity Pathway Analysis
