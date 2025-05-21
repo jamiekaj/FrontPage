@@ -26,6 +26,7 @@
 - ~20 years IT experience
   - Windows, Mac, Linux
   - Adobe CC, Microsoft Office
+  - Dentrix / OrthoTrac
   - Apple Specialist Training - 2018
 
 ***Some information about what I'm working on coming soon...***
