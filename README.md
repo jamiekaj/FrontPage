@@ -7,22 +7,25 @@
   - ***[Dissertation](https://uknowledge.uky.edu/gluck_etds/67/)***
 
 ## Experience
-- ~20 years IT experience
-  - Windows, Mac, Linux
-  - Adobe CC, Microsoft Office
-  - Apple Specialist Training - 2018
- 
 - ~10 years research experience
   - Wetlab
     - nucleic acid isolation  
     - end point & digital PCR
     - fecal egg counting
-  - Necropsy & Equine Handling
+  - Equine Handling & Necropsy
   - Bioinformatics
     - genome assembly and annotation
-    - SNV detection
-    - Process automation & HPC utlization
+    - differential gene expression analysis
+    - SNV analysis
+    - protein modeling
+    - process automation & HPC utlization
     - R, Python
-    - Advanced Machine Learning
+    - advanced machine learning
+  - Art / Graphic Design
+    - 
+- ~20 years IT experience
+  - Windows, Mac, Linux
+  - Adobe CC, Microsoft Office
+  - Apple Specialist Training - 2018
 
 ***Some information about me and what I'm working on...***
