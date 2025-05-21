@@ -18,7 +18,7 @@
     - R, Python
     - Qiagen CLC & Ingenuity Pathway Analysis
   - [Lay-Article](https://gluck.ca.uky.edu/sites/gluck.ca.uky.edu/files/EDQ%20Jan..%202024%20%20.pdf)
-  - [Art & Graphic Design](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119382829)
+  - [Scienific Illustration & Microscope Photography](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119382829)
     
 - ~20 years IT experience
   - Windows, Mac, Linux
