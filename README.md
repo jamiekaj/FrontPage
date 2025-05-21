@@ -17,6 +17,7 @@
     - machine learning
     - R, Python
     - Qiagen CLC & Ingenuity Pathway Analysis
+  - [Lay-Article](https://gluck.ca.uky.edu/sites/gluck.ca.uky.edu/files/EDQ%20Jan..%202024%20%20.pdf)
   - Art & Graphic Design
     
 - ~20 years IT experience
