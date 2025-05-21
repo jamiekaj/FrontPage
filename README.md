@@ -13,6 +13,7 @@
     - end point & digital PCR
     - fecal egg counting
   - Equine Handling & Necropsy
+  - Student Mentorship
   - Bioinformatics
     - genome assembly and annotation
     - differential gene expression analysis
